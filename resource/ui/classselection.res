@@ -67,7 +67,7 @@
 	{
 		"ControlName"								"CExImageButton"
 		"fieldName"									"scout"
-		"xpos"										"0"
+		"xpos"										"-1"
 		"ypos"										"7"
 		"zpos"										"6"
 		"wide"										"65"
@@ -97,7 +97,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"numScout"
-		"xpos"										"0"
+		"xpos"										"-1"
 		"ypos"										"0"
 		"wide"										"50"
 		"tall"										"11"
@@ -139,7 +139,7 @@
 	{
 		"ControlName"								"CExImageButton"
 		"fieldName"									"soldier"
-		"xpos"										"0"
+		"xpos"										"1"
 		"ypos"										"0"
 		"zpos"										"6"
 		"wide"										"65"
@@ -290,7 +290,7 @@
 		"tall"										"11"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"									"&4  Demoman"
+		"labelText"									"&4  Demo"
 		"textAlignment"								"west"
 		"Command"									"joinclass demoman"
 		"font"										"m0refont11"

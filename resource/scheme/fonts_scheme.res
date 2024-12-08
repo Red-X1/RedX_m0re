@@ -90,6 +90,16 @@
 				"antialias"									"1"
 			}
 		}
+		"m0refont15OL"
+		{
+			"1"
+			{
+				"name"										"Days"
+				"tall"										"15"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
 		"m0refont16"
 		{
 			"1"
@@ -359,7 +369,7 @@
 			"4"
 			{
 				"name"										"Days"
-				"tall"										"24"
+				"tall"										"20"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
 				"antialias"									"1"
@@ -2892,6 +2902,11 @@
 		{
 			"font"		"resource/scheme/fonts/m0rehud icons.ttf"
 			"name"		"m0rehud Icons V5"
+		}
+		"13"
+		{
+			"font"		"resource/scheme/fonts/surface_medium.otf"
+			"name"		"Surface-Medium"
 		}
 	}
 }

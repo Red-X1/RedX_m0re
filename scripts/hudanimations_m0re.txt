@@ -46,7 +46,7 @@ event HudHealthDyingPulse
 
 	Animate	PlayerStatusHealthDyingBG				Alpha		"255"								Linear	0.0		0.0
 
-	Animate HealthValue						FgColor		"Health Hurt"						Linear	0.0		0.0
+	Animate HealthValue								FgColor		"Health Hurt"						Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"255"								Linear	0.0		0.0
 
 	Animate HealthValue_Target						FgColor		"Health Hurt Target"				Linear	0.0		0.0
