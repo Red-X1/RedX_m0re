@@ -1,6 +1,6 @@
 m0rehud edit by RedX
 
-download: https://github.com/Red-X1/RedX_m0re/releases/download/m0rehud-classic-base/RedX_m0re_updated.zip
+[DOWNLOAD] (https://github.com/Red-X1/RedX_m0re/releases/download/m0rehud-classic-base/RedX_m0re.zip)
 
 ![image](https://github.com/user-attachments/assets/296ade1d-b549-4f63-8f5d-278d70da66e8)
 
