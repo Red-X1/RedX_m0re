@@ -712,7 +712,7 @@
 		"tall"										"14"
 		"visible"									"0"
 
-		"pin_to_sibling"							"QuitGame"
+		"pin_to_sibling"							"Notifications_ShowButtonPanel"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
